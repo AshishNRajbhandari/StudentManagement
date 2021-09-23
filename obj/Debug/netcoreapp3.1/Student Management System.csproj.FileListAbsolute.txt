@@ -1,0 +1,30 @@
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.exe
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.deps.json
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.runtimeconfig.json
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.runtimeconfig.dev.json
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.dll
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.pdb
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.AssemblyReference.cache
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Form1.resources
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Properties.Resources.resources
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.GenerateResource.cache
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.AssemblyInfoInputs.cache
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.AssemblyInfo.cs
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.dll
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.pdb
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.genruntimeconfig.cache
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Account_Details.resources
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Home.resources
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Home2.resources
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Result.resources
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.CopyComplete
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Home3.resources
+C:\Users\Ashis\Desktop\Final project Sem 4 - 5\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Register.resources
